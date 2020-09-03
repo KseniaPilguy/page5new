@@ -1,0 +1,33 @@
+<svg width="73" height="74" viewBox="0 0 73 74" fill="none" xmlns="http://www.w3.org/2000/svg">
+<line x1="8.10913" y1="35.0496" x2="58.5783" y2="35.0496" stroke="black" stroke-width="2"/>
+<path d="M2.33838 5.46805L16.3159 4.92509L17.2707 5.23379V20.4384L2.33838 20.4384L2.33838 5.46805Z" fill="#F6F0E1" stroke="black" stroke-width="2"/>
+<mask id="path-3-inside-1" fill="white">
+<rect y="3.60522" width="16.9323" height="16.9323" rx="1"/>
+</mask>
+<rect y="3.60522" width="16.9323" height="16.9323" rx="1" fill="#F6F0E1" stroke="black" stroke-width="4" mask="url(#path-3-inside-1)"/>
+<mask id="path-4-inside-2" fill="white">
+<rect x="1.33838" y="27.9382" width="16.9323" height="16.9323" rx="1"/>
+</mask>
+<rect x="1.33838" y="27.9382" width="16.9323" height="16.9323" rx="1" fill="#F6F0E1" stroke="black" stroke-width="4" mask="url(#path-4-inside-2)"/>
+<mask id="path-5-inside-3" fill="white">
+<rect y="27.0371" width="16.9323" height="16.9323" rx="1"/>
+</mask>
+<rect y="27.0371" width="16.9323" height="16.9323" rx="1" fill="#F6F0E1" stroke="black" stroke-width="4" mask="url(#path-5-inside-3)"/>
+<mask id="path-6-inside-4" fill="white">
+<rect x="1.33838" y="51.3701" width="16.9323" height="16.9323" rx="1"/>
+</mask>
+<rect x="1.33838" y="51.3701" width="16.9323" height="16.9323" rx="1" fill="#F6F0E1" stroke="black" stroke-width="4" mask="url(#path-6-inside-4)"/>
+<mask id="path-7-inside-5" fill="white">
+<rect y="50.4692" width="16.9323" height="16.9323" rx="1"/>
+</mask>
+<rect y="50.4692" width="16.9323" height="16.9323" rx="1" fill="#F6F0E1" stroke="black" stroke-width="4" mask="url(#path-7-inside-5)"/>
+<line x1="60.4805" y1="10.8145" x2="60.4805" y2="62.1848" stroke="black" stroke-width="2"/>
+<path d="M71.0002 14.4198L55.0743 23.6146L55.0743 5.22494L71.0002 14.4198Z" fill="black" stroke="black" stroke-width="2"/>
+<path d="M70.0991 12.6173L54.1732 21.8121L54.1732 3.42245L70.0991 12.6173Z" fill="#F6F0E1" stroke="black" stroke-width="2"/>
+<path d="M71.0002 61.2838L55.0743 52.089L55.0743 70.4787L71.0002 61.2838Z" fill="black" stroke="black" stroke-width="2"/>
+<path d="M70.0991 59.4813L54.1732 50.2865L54.1732 68.6762L70.0991 59.4813Z" fill="#F6F0E1" stroke="black" stroke-width="2"/>
+<circle cx="61.9535" cy="38.5211" r="6.66049" fill="#F6F0E1" stroke="black" stroke-width="2"/>
+<circle cx="60.8338" cy="37.4012" r="6.66049" fill="#F6F0E1" stroke="black" stroke-width="2"/>
+<path d="M42.0584 34.3733C42.8043 34.7393 42.8043 35.8027 42.0584 36.1687L28.5325 42.8065C27.8681 43.1326 27.092 42.6489 27.092 41.9088L27.092 28.6332C27.092 27.8931 27.8681 27.4094 28.5325 27.7355L42.0584 34.3733Z" fill="black"/>
+<path d="M70.0991 59.4813L54.1732 50.2865L54.1732 68.6762L70.0991 59.4813Z" fill="#F6F0E1" stroke="black" stroke-width="2"/>
+</svg>

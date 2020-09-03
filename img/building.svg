@@ -1,0 +1,79 @@
+<svg width="92" height="117" viewBox="0 0 92 117" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="8" y="7" width="84" height="110" rx="2" fill="black"/>
+<mask id="path-2-inside-1" fill="white">
+<rect width="86.3442" height="111.553" rx="2"/>
+</mask>
+<rect width="86.3442" height="111.553" rx="2" fill="white" stroke="black" stroke-width="6" mask="url(#path-2-inside-1)"/>
+<rect x="19" y="23" width="8" height="14" fill="black"/>
+<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="19" y="23" width="8" height="14">
+<rect x="19" y="23" width="8" height="14" rx="0.1" fill="black"/>
+</mask>
+<g mask="url(#mask0)">
+<rect x="20.7539" y="25.0342" width="8" height="17" rx="0.5" fill="white"/>
+</g>
+<rect x="18" y="22" width="10" height="16" rx="1.1" stroke="black" stroke-width="2"/>
+<rect x="39" y="23" width="8" height="14" fill="black"/>
+<mask id="mask1" mask-type="alpha" maskUnits="userSpaceOnUse" x="39" y="23" width="8" height="14">
+<rect x="39" y="23" width="8" height="14" rx="0.1" fill="black"/>
+</mask>
+<g mask="url(#mask1)">
+<rect x="40.7539" y="25.0342" width="8" height="17" rx="0.5" fill="white"/>
+</g>
+<rect x="38" y="22" width="10" height="16" rx="1.1" stroke="black" stroke-width="2"/>
+<rect x="59" y="23" width="8" height="14" fill="black"/>
+<mask id="mask2" mask-type="alpha" maskUnits="userSpaceOnUse" x="59" y="23" width="8" height="14">
+<rect x="59" y="23" width="8" height="14" rx="0.1" fill="black"/>
+</mask>
+<g mask="url(#mask2)">
+<rect x="60.7539" y="25.0342" width="8" height="17" rx="0.5" fill="white"/>
+</g>
+<rect x="58" y="22" width="10" height="16" rx="1.1" stroke="black" stroke-width="2"/>
+<rect x="19" y="49" width="8" height="14" fill="black"/>
+<mask id="mask3" mask-type="alpha" maskUnits="userSpaceOnUse" x="19" y="49" width="8" height="14">
+<rect x="19" y="49" width="8" height="14" rx="0.1" fill="black"/>
+</mask>
+<g mask="url(#mask3)">
+<rect x="20.7539" y="51.0342" width="8" height="17" rx="0.5" fill="white"/>
+</g>
+<rect x="18" y="48" width="10" height="16" rx="1.1" stroke="black" stroke-width="2"/>
+<rect x="39" y="49" width="8" height="14" fill="black"/>
+<mask id="mask4" mask-type="alpha" maskUnits="userSpaceOnUse" x="39" y="49" width="8" height="14">
+<rect x="39" y="49" width="8" height="14" rx="0.1" fill="black"/>
+</mask>
+<g mask="url(#mask4)">
+<rect x="40.7539" y="51.0342" width="8" height="17" rx="0.5" fill="white"/>
+</g>
+<rect x="38" y="48" width="10" height="16" rx="1.1" stroke="black" stroke-width="2"/>
+<rect x="59" y="49" width="8" height="14" fill="black"/>
+<mask id="mask5" mask-type="alpha" maskUnits="userSpaceOnUse" x="59" y="49" width="8" height="14">
+<rect x="59" y="49" width="8" height="14" rx="0.1" fill="black"/>
+</mask>
+<g mask="url(#mask5)">
+<rect x="60.7539" y="51.0342" width="8" height="17" rx="0.5" fill="white"/>
+</g>
+<rect x="58" y="48" width="10" height="16" rx="1.1" stroke="black" stroke-width="2"/>
+<rect x="19" y="75.0342" width="8" height="14" fill="black"/>
+<mask id="mask6" mask-type="alpha" maskUnits="userSpaceOnUse" x="19" y="75" width="8" height="15">
+<rect x="19" y="75.0342" width="8" height="14" rx="0.1" fill="black"/>
+</mask>
+<g mask="url(#mask6)">
+<rect x="20.7539" y="77.0684" width="8" height="17" rx="0.5" fill="white"/>
+</g>
+<rect x="18" y="74.0342" width="10" height="16" rx="1.1" stroke="black" stroke-width="2"/>
+<rect x="39" y="75.0342" width="8" height="14" fill="black"/>
+<mask id="mask7" mask-type="alpha" maskUnits="userSpaceOnUse" x="39" y="75" width="8" height="15">
+<rect x="39" y="75.0342" width="8" height="14" rx="0.1" fill="black"/>
+</mask>
+<g mask="url(#mask7)">
+<rect x="40.7539" y="77.0684" width="8" height="17" rx="0.5" fill="white"/>
+</g>
+<rect x="38" y="74.0342" width="10" height="16" rx="1.1" stroke="black" stroke-width="2"/>
+<rect x="59" y="75.0342" width="8" height="14" fill="black"/>
+<mask id="mask8" mask-type="alpha" maskUnits="userSpaceOnUse" x="59" y="75" width="8" height="15">
+<rect x="59" y="75.0342" width="8" height="14" rx="0.1" fill="black"/>
+</mask>
+<g mask="url(#mask8)">
+<rect x="60.7539" y="77.0684" width="8" height="17" rx="0.5" fill="white"/>
+</g>
+<rect x="58" y="74.0342" width="10" height="16" rx="1.1" stroke="black" stroke-width="2"/>
+</svg>
